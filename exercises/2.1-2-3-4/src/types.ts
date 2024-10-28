@@ -3,4 +3,4 @@ interface Movie {
     director: string;
 }
 
-export default Movie;
+export type { Movie };
