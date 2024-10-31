@@ -6,7 +6,6 @@ import Header from './Header';
 import Footer from "./Footer";
 
 
-
 const App = () => {
   const pageTitle = "Informations sur les films dans les cinémas";
 
